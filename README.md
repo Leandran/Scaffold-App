@@ -1,24 +1,7 @@
-# README
+# An App created using the scaffold generator with 2 models, a user model and a post model.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Technologies and tools
 
-Things you may want to cover:
+* Runy on Rails
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
