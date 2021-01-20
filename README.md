@@ -2,6 +2,6 @@
 
 # Technologies and tools
 
-* Runy on Rails
+* Ruby on Rails
 
 
